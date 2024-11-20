@@ -424,7 +424,7 @@ body > h1:first-of-type:not(.heading) {
 
     <nav class="bottom-nav">
         <div class="nav-container">
-            <div class="nav-item active" data-page="subscription">
+            <div class="nav-item" data-page="subscription">
                 <a href="https://nysaabhi.github.io/chat">
                     <i class="fas fa-envelope-open-text"></i>
                 </a>
