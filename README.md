@@ -312,7 +312,7 @@ body {
 }
 
 .nav-item:hover i {
-    color: #ffd000;
+    color: #ffe1a6;
     transform: scale(1.2);
 }
 
